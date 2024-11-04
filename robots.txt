@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebireuce.github.io/gGL/sitemap_index.txt
+Sitemap: https://ebireuce.github.io/jyi/sitemap_index.txt
+Sitemap: https://ebireuce.github.io/lnJ/sitemap_index.txt
+Sitemap: https://ebireuce.github.io/nVI/sitemap_index.txt
